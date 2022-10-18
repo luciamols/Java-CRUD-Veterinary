@@ -41,24 +41,3 @@ el usuario quiere salir del programa.
 buscarlas...
 ◦ Map<String,Mascota> mascotas;
 
- • Les aconsejo crear una clase Mascotas donde tengan el mapa de
-mascotas y los métodos para operar sobre ellas y la clase Mascota
-con los atributos de las mismas y el listado de motivos de visita como
-un List<String> motivosVisita
-
-• Traten de dejar limpio el método main del inicializador y tener la
-mayor cantidad de lógica en métodos separados. Que el que lea el
-programa pueda entenderlo incluso sin saber programación. Usen
-nombres de métodos descriptivos
-
-• No usen Scanner detro de Mascota o Mascotas, úsenlo en
-Inicializador para pedir por los datos al usuario
-
-• Para ordenar los motivos de visita recuerden el uso del Comparator
-
-• No es obligatorio, pero si pueden implementen los casos de error
-como por ejemplo cuando se busca una mascota y no existe como
-excepciones. Usando por ejemplo MascotaNoEncontradaException().
-
-Luego en el código donde llaman al metodo deberían tener los
-try/catchs correspondientes y informar que paso.
