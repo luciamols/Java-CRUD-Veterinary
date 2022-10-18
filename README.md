@@ -1,8 +1,7 @@
 # Veterinaria-java
-Proyecto academico sobre un CRUD de veterinaria
+Proyecto universitario inspirado en una clínica veterinaria utilizando método CRUD.
 
-La veterinaria del barrio nos pide hacer un simple programa para cargar
-las mascotas del barrio y sus dueños.
+La tarea es crear datos de mascotas, actualizarlos, borrarlos, y cargarlos.
 
 El programa tendrá una simple interfaz donde preguntara que tipo de
 operación quiere realizar el usuario
